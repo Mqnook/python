@@ -1,2 +1,2 @@
 # python
-pyrhon
+python
